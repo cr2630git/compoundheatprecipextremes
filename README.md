@@ -1,2 +1,2 @@
 # compoundheatprecipextremes
-Scripts and data to accompany in-review paper.
+Scripts to accompany in-review paper.
